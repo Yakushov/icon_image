@@ -1,0 +1,109 @@
+.container {
+    display: block;
+    width: 1280px;
+    height: 1098px;
+    margin: 0 auto;
+}
+
+
+.fa {
+    position: absolute;
+}
+.fa-bus {
+    position: absolute;
+    right: 1030px;
+    top: 500px;
+    font-size: 50px;
+}
+
+.fa-taxi {
+    position: absolute;
+    right: 1030px;
+    top: 150px;
+    font-size: 35px;
+}
+
+.fa-car {
+    position: absolute;
+    right: 975px;
+    top: 300px;
+    font-size: 35px;
+}
+
+.fa-male {
+    position: absolute;
+    right: 1130px;
+    top: 400px;
+    font-size: 50px;
+}
+
+.road {
+    border-top: black solid;
+    border-bottom: black dashed;
+    width:1100px;
+    height: 44px;
+    position: absolute;
+    border-width: 7px;
+    top: 0;
+    left: 357px;
+    transform: rotate(90deg);
+}
+.road-bottom {
+    border-bottom: black solid;
+    width: 1100px;
+    height: 49px;
+    position: absolute;
+    border-width: 7px;
+    top: 0;
+    left: 300px;
+    transform: rotate(90deg);
+}
+
+.fa-hospital-o {
+    position: absolute;
+    right: 850px;
+    top: 50px;
+    font-size: 100px;
+}
+
+.fa-building {
+    position: absolute;
+    right: 850px;
+    top: 350px;
+    font-size: 100px;
+}
+
+.fa-university {
+    position: absolute;
+    right: 1100px;
+    top: 200px;
+    font-size: 100px;
+}
+
+.fa-tree {
+    position: absolute;
+    right: 1100px;
+    top: 500px;
+    font-size: 50px;
+}
+
+.fa-comment-o {
+    position: absolute;
+    right: 1090px;
+    top: 350px;
+    font-size: 50px;
+}
+
+.fa-usd {
+    position: absolute;
+    right: 1120px;
+    top: 365px;
+    font-size: 20px;
+}
+
+.fa-ship {
+    position: absolute;
+    right: 1095px;
+    top: 365px;
+    font-size: 20px;
+}
